@@ -10,22 +10,6 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/flixmovies/refs/heads/main/filmes.xml</externallink>
 </channel>
 
-<channel>  
-<name>[COLOR green] Séries [/COLOR] 2025 </name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
-<externallink></externallink>
-</channel>
-
-<channel>  
-<name>[COLOR blue] TV [/COLOR] Categorias </name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
-<externallink></externallink>
-</channel>
-
 
   
 </channels>

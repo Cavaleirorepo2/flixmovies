@@ -27,6 +27,14 @@
 </channel>
 
 <channel>  
+<name>[COLOR green]Series02[/COLOR]CATEGORIAS </name>
+<thumbnail>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</thumbnail>
+<fanart>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
+<externallink>https://github.com/Cavaleirorepo2/flixmovies/blob/main/series02.xml</externallink>
+</channel>
+  
+<channel>  
 <name>[COLOR blue]TV[/COLOR]CATEGORIAS </name>
 <thumbnail>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</thumbnail>
 <fanart>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</fanart>

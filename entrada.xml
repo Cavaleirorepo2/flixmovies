@@ -3,7 +3,7 @@
 
 
 <channel>  
-<name>[COLOR blue] FILMES [/COLOR] 2025 </name>
+<name>[COLOR green] FILMES [/COLOR] 2025 </name>
 <thumbnail>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</thumbnail>
 <fanart>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
@@ -19,7 +19,7 @@
 </channel>
   
 <channel>  
-<name>[COLOR GREEN] SÉRIES [/COLOR] 2025 </name>
+<name>[COLOR green] SÉRIES [/COLOR] 2025 </name>
 <thumbnail>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</thumbnail>
 <fanart>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
@@ -32,6 +32,14 @@
 <fanart>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/flixmovies/refs/heads/main/tv.xml</externallink>
+</channel>
+
+<channel>  
+<name>[COLOR green]TV02[/COLOR]CATEGORIAS </name>
+<thumbnail>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</thumbnail>
+<fanart>https://archive.org/download/sem-titulo_20250213/Sem%20t%C3%ADtulo.png</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon flixmovies [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/flixmovies/refs/heads/main/tv02.xml</externallink>
 </channel>
   
   
